@@ -22,8 +22,6 @@ while not valid:
     except ValueError:
         print(error)
         # add two numbers together
-
-
     num_3 = num_1 + num_2
     # multiply two numbers together
     num_4 = num_1 * num_2
